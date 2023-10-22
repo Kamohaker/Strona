@@ -11,12 +11,13 @@ Website is build with React framework. Main language is JavaScript. In project I
 To run aplication Node.js is require.
 
 Project download:
-1. Clone a Git repository with the command: git clone ...
+1. Clone a Git repository with the command: git clone https://github.com/Kamohaker/Strona.git
 2. You can also download the project as a ZIP archive from the project's GitHub page.
 3. Open  Strona folder in terminal.
 4. Run install command.
 ```cmd
-   npm install
+    cd Strona
+    npm install
 ```
 5. Next start aplication
 ```cmd
