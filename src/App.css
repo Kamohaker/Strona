@@ -1,0 +1,99 @@
+
+.BoxPage {
+  background-color: #101014;
+}
+
+.About {
+  
+  background-color:#282c34 !important;
+  display: flex;  
+  flex-direction: row;
+  align-items: center; 
+  text-align: left;
+  max-width: 900px;
+  padding:20px;
+  padding-left:35px;
+  border-radius:35px !important;
+  margin-bottom: 20px;
+}
+
+.BoxIconText{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 10px;
+
+}
+
+.BoxMenuItem{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+}
+
+.CardWorks{
+  display: flex;  
+  flex-direction: row;
+  height:400px !important;
+  width:700px !important;
+  background-color:#282c34 !important;
+}
+
+.BoxBackGround{
+  background-color:#101014;
+  display: flex;  
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  min-height: 1000px;
+  padding: 20px;
+  padding-top: 100px;
+
+}
+
+.BoxColumn{
+  background-color:#282c34 !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: left;
+  max-width: 900px;
+  padding:20px;
+  padding-left:35px;
+  border-radius:35px !important;
+  margin-bottom: 20px;
+}
+
+.BoxMenu{
+  background-color: #282c34;
+  display: flex;  
+  flex-direction: row;
+  align-items: center; 
+  text-align: center;
+  padding: 5px;
+  justify-content: space-between;
+}
+
+.Header{
+  color: #A7D129;
+  font-size: 50px !important ;
+}
+.Description{
+  font-size:30px !important; 
+  color: white;
+
+}
+
+::-webkit-scrollbar {
+  width: 15px;
+}
+::-webkit-scrollbar-track {
+  background-color: #444444;
+}
+::-webkit-scrollbar-button {
+  background-color: #A7D129;
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #A7D129, #29b6f6);
+}
