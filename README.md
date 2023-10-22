@@ -5,7 +5,7 @@ Website is about my portfolio. It include my own projects.
 Build website: https://kamohaker.github.io/
 
 ### Technology
-Website is build with React framework. Main language is JavaScript. In project I used MUI library.  
+Website is build with React. Main language is JavaScript. In project I used MUI library.  
 
 ### Instalation 
 To run aplication Node.js is require.
